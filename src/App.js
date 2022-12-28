@@ -1,10 +1,9 @@
 import './index.css';
-import SetUp from './UseStateCounter';
+import SetUp from './ControlledInput';
 
 function App() {
   return (
     <div className="App">
-      <SetUp></SetUp>
       <SetUp></SetUp>
     </div>
   );

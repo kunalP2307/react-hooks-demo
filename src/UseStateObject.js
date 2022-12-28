@@ -6,7 +6,7 @@ const UseStateObject =()=>{
         id : 76,
         name : 'Kunal',
         age : 28
-    });
+    }); 
 
     const changeAge =()=>{
         setObject({
